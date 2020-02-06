@@ -1,7 +1,6 @@
 # string indexing and slicing
 a="hello world!"
-print (a)
-#each 
+print (a) 
 print (a[0])
 print (a[1])
 print (a[2])
@@ -24,9 +23,8 @@ print (a[:])
 #string operators
 a="Hello"
 b="world"
-print(a+b)
-print (a*4)
-print (r"C:\Users\Teddy\Documents\python")
+print(a+b)#combines a and b together
+print (a*4)#multiplies a 4 times 
 
 
 
