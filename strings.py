@@ -1,6 +1,7 @@
 # string indexing and slicing
 a="hello world!"
-print (a) 
+print (a)# outputs the string in a
+#shows the char on each position in the string
 print (a[0])
 print (a[1])
 print (a[2])
@@ -13,10 +14,10 @@ print (a[8])
 print (a[9])
 print (a[10])
 print (a[11])
-print (40)
+print (a[40])
 print (a[2:5])
-print (a[2:9])
-print (a[:])
+print (a[2:9])#shows the values from 2 to 9 excluding the last
+print (a[:])#shows the entire string
 
 
 
